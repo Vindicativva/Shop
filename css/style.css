@@ -1,0 +1,133 @@
+@font-face {
+    font-family: "MyFont"; 
+    src: url("../fonts/RifficFree-Bold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    color: #EACDC2;
+} 
+.wrapper {
+    max-width: 1345px;
+    margin: auto;
+    margin-top: 15px;
+}
+.header {
+    font-family: "MyFont"; 
+    color: #EACDC2;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.main-container {
+    color: #EACDC2;
+    font-family: "MyFont"; 
+    margin-top: 25px;
+    left: auto;
+    right: auto;
+    margin-left: 75px;
+    margin-right: 75px;
+    display: flex;
+    justify-content:center; 
+}
+.container {   
+    border-radius: 35px;
+    color: #EACDC2;
+    font-family: "MyFont";  
+    background-color: #774C60;
+    width: calc(100%/3);
+    margin: 0px 25px;
+    height: 550px;
+    min-width: 297px;
+}
+.con {
+    display: flex;
+}
+.button-menu {
+    font-family: "MyFont"; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 35px;
+    background-color: #372549;
+    font-size: 35px;
+    color: #EACDC2;
+    text-decoration: none;
+    display: block;
+    width: 80%;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    transition: 0.5s;
+}
+.button-contact {
+    font-family: "MyFont"; 
+    margin-left: 20px;
+    margin-right: 0em;
+    border-radius: 35px;
+    background-color: #B75D69;
+    font-size: 35px;
+    color: #EACDC2;
+    text-decoration: none;
+    display: block;
+    width: 220px;
+    height: 63px;
+    text-align: center;
+    line-height: 63px;
+    padding-left: 5px;
+    padding-right: 5px;
+    transition: 0.5s;
+}
+.button-lang {
+    font-family: "MyFont";
+    margin-left: auto;
+    margin-right: 0em;
+    border-radius: 35px;
+    background-color: #B75D69;
+    font-size: 35px;
+    color: #EACDC2;
+    text-decoration: none;
+    display: block;
+    width: 63px;
+    min-width: 63px;
+    height: 63px;
+    text-align: center;
+    line-height: 63px;
+    transition: 0.5s;
+}
+.text-curr {
+    font-size: 60px; 
+    font-family: 'MyFont';
+    color: rgb(234, 205, 194);
+}
+.cont {
+    display: grid;
+    margin-top: 25px;
+}
+.text-styled-1 {
+    font-size: 35px;
+    margin-top: -14px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    color: rgb(206, 179, 168);
+    filter: blur(0.5px);
+}
+.text-styled-2 {
+    font-size: 35px;
+    margin-top: -14px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    color: rgb(206, 179, 168);
+    filter: blur(0.5px);
+}
+.text-styled-3 {
+    font-size: 35px;
+    margin-top: -14px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    color: rgb(206, 179, 168);
+    filter: blur(0.5px);
+}

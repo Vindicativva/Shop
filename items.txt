@@ -1,0 +1,102 @@
+HF_Pineapple_Blackberry = true
+HF_Pineapple_Coconut = true
+HF_Lingonberry_Lemon = false
+HF_Melon_Blueberry = true
+HF_Kiwi_Banana = true
+HF_Kiwi_Pomelo = true
+HF_Sour_forest_berries = true
+HF_Lychee_Lime = false
+HF_Mango_Grapefruit = true
+HF_Mango_Peach = false
+HF_Peach_Passion_Fruit = true
+HF_Currant_Mint = true
+HF_Conifer_Grapefruit = false
+HF_Fresh_mint = true
+HF_Apple_Pear = true
+
+HDCI_Watermelon = true
+HDCI_Green_Apple = true
+HDCI_Ice_Cherry = true
+HDCI_Ice_Grapes = false
+HDCI_Passion_fruit = true
+HDCI_Peach = true
+
+HA_Sour_Green_Apple = true
+HA_Sour_Cherry = false
+HA_Sour_Kiwi = true
+HA_Sour_Passion_Fruit = true
+HA_Sour_Pineapple = true
+HA_Sour_Barberry = false
+HA_Sour_Cowberry = false
+HA_Sour_Red_Currant = false
+
+FP_Bananas = true
+FP_Cheesecake = false
+FP_Cherry_Tobacco = false
+FP_Energy = true
+FP_Exotic_Gum = false
+FP_Fruit_Mix = true
+FP_Ice_Bomb = false
+FP_Ice_Cocos = false
+FP_Mango_Lassi = false
+FP_Orange_Juice = false
+FP_Passion = true
+FP_Peach_Yogurt = true
+FP_Sour_Apple = false
+FP_Strawberry_Milkshake = true
+FP_Watermelon_Kiwi = false
+
+P1_Cherry_Lime_Ice = false
+P1_Apple_Cherry = false
+P1_Cola_Soda_Ice = true
+P1_Black_Currant_Lemonade = false
+P1_Raspberry_Cherry = false
+P1_Exotic_Tropic_Ice = true
+P1_Frozen_Blue_Raz = false
+P1_Iced_Double_Apple = false
+P1_Lush_Ice = false
+P1_Lychee_Grape_Mint = false
+P1_Mixed_Berries_Ice = false
+P1_Raspberry_Lemonade = false
+P1_Raspberry_Strawberry_Gum = false
+P1_Strawberry_Banana_Ice = true
+P1_Wood_And_Berries_On_Ice = true
+
+P2_Aperol_Spiritz = false
+P2_Apple_Sambuca = false
+P2_Banana_Milk = true
+P2_Cactus_Grape_BubbleGum = false
+P2_Kiwi_Lime_Tarhoon = false
+P2_Pineapple_Energy = false
+P2_Strawberry_Champagne = false
+P2_Watermelon_Ice_Cream = true
+P2_Cappuccino = false
+P2_Coffee_Nut_Tobacco = false
+P2_Lemon_Pie = false
+P2_Strawberry_Ice_Cream = true
+P2_Black_Currant_Halls = false
+
+GIO_893 = false
+GIO_Amber = false
+GIO_Arbooze = false
+GIO_Bleach = false
+GIO_Cranberry_Energy = false
+GIO_Grape_King = false
+GIO_La_Festa = false
+GIO_Morse = false
+GIO_Sweet_Mint = false
+
+Cartridges_XROS = true
+Cartridges_Vthru_PRO = true
+Cartridges_Barr = true
+Cartridges_Aegis_Nano = true
+Cartridges_Ursa = true
+Cartridges_Aegis_One = false
+
+Vaporizers_Santy_Charon = true
+Vaporizers_Jellybox_Nano = true
+Vaporizers_Charon_Baby = true
+Vaporizers_Aegis_B = true
+Vaporizers_Pasito2_Knight80 = true
+
+

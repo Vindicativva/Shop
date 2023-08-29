@@ -1,0 +1,123 @@
+@font-face {
+    font-family: "MyFont"; 
+    src: url("../fonts/RifficFree-Bold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    color: #EACDC2;
+} 
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.con {
+    display: flex;
+}
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.text-border {
+    margin-right: 5px;
+}
+.container {
+    border-radius: 60px;
+    color: #EACDC2;
+    font-family: "MyFont";  
+    background-color: #774C60;
+    width: calc(100%/3);
+    margin: 15px;
+    height: 550px;
+    min-width: 440px;
+    max-width: 480px;
+}
+.row {
+    display: flex;
+    margin-left: 35px;
+    align-items: center;
+    margin-bottom: 3px;
+}
+.circle {
+    border-radius: 15px;
+    min-width: 20px;
+    min-height: 20px;
+    width: 20px;
+    height: 20px;
+    background-color: #68DC66;
+}
+.text-name {
+    font-size: 35px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.text-item {
+    font-size: 18px;
+    margin-left: 10px;
+}
+.text-curr {
+    font-size: 60px; 
+    font-family: 'MyFont';
+    color: rgb(234, 205, 194);
+}
+.image-back {
+    width: 50px;
+    height: 50px;
+}
+.button-back {
+    font-family: "MyFont";
+    margin-left: auto;
+    margin-right: 0em;
+    border-radius: 35px;
+    background-color: #B75D69;
+    font-size: 35px;
+    color: #EACDC2;
+    text-decoration: none;
+    display: block;
+    width: 63px;
+    min-width: 63px;
+    height: 63px;
+    text-align: center;
+    line-height: 63px;
+    transition: 0.5s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-contact {
+    font-family: "MyFont"; 
+    margin-left: 20px;
+    margin-right: 0em;
+    border-radius: 35px;
+    background-color: #B75D69;
+    font-size: 35px;
+    color: #EACDC2;
+    text-decoration: none;
+    display: block;
+    width: 220px;
+    height: 63px;
+    text-align: center;
+    line-height: 63px;
+    padding-left: 5px;
+    padding-right: 5px;
+    transition: 0.5s;
+}
+.button-lang {
+    font-family: "MyFont";
+    margin-left: 20px;
+    margin-right: 0em;
+    border-radius: 35px;
+    background-color: #B75D69;
+    font-size: 35px;
+    color: #EACDC2;
+    text-decoration: none;
+    display: block;
+    width: 63px;
+    min-width: 63px;
+    height: 63px;
+    text-align: center;
+    line-height: 63px;
+    transition: 0.5s;
+}
